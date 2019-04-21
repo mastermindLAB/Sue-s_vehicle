@@ -97,7 +97,7 @@ _Looks like for <span style="color: red">Ford Edge SEL</span> the Horsepower is 
 
 Based on Sue's consideration she prioritizes the vehicle which has more safety feature. This is her **utmost priority**.
 
-Based on the Sue list I have visualized ten available cars based on their `Safety Rating`. From the below diagram its shows she had selected two cars from Toyota: `Matrix` , `RAV4 LE` , Nissan: `Rogue`, Ford: `Edge SEL` and Mazda: `CX-5` all have safety rating `4`.
+On the Sue list I have visualized ten available cars based on their `Safety Rating`. From the below diagram its shows she had selected two cars from Toyota: `Matrix` , `RAV4 LE` , Nissan: `Rogue`, Ford: `Edge SEL` and Mazda: `CX-5` all have safety rating `4`.
 
 Nevertheless Toyota: `Prius`, Ford: `Focus`, Kia: `Ronda` and `Soul EX`, and finally, Honda: `CRV` got safety rating `5`. I am preferring those car having safety rating 5 first.
 
