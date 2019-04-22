@@ -321,7 +321,7 @@ car_2data = (car_data.loc[car_data['Model'].isin(['CRV','CX-5'])])
 
 ![](final.png)
 
-## My Recommendation would be what you think!
+## _Recommendation_
 
 1. <span style="color:#D82D0F">CRV while considering all aspect.</span>
 2. <span style="color:blue">CX-5</span>
