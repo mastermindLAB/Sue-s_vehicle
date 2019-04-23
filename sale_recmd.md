@@ -321,7 +321,9 @@ car_2data = (car_data.loc[car_data['Model'].isin(['CRV','CX-5'])])
 
 ![](final.png)
 
-## _Recommendation_
+## My Recommendation!
 
-1. <span style="color:#D82D0F">CRV while considering all aspect.</span>
-2. <span style="color:blue">CX-5</span>
+1. <span style="color:#FF5733">CRV while considering all aspect.</span> (safety rating: 5, cargo space: 1053)
+2. <span style="color:#5B60D8">CX-5</span> (safety rating: 4, cargo space: 966)
+
+Eventhought, CX-5 (2014, Fuel Efficiency- Highway:6.1, City:7.8) is the latest car in the market and more fuel efficient than CRV (2013, Highway:6.4, City: 9) but in terms of safety rating and cargo space CX-5 going down to second choice in my list.  
